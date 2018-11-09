@@ -11,7 +11,7 @@ SoftwareSerial sim800(7, 8);
 String modulPhoneNumber = "79617021794";
 //String modulPhoneNumber = "79130744802";
 String masterPhone = "+79130744802";
-String serverIP = "2.95.83.94";
+String serverIP = "2.95.83.94";//
 String serverPort = "80";
 String operatorGSM = "beeline";
 String incomingNumber = "---";
